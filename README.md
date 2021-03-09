@@ -1,4 +1,4 @@
-
+# Repository that uses OIDC Authentication Method to login to Vault with Auth0
 
 ## Prerequisites
 
